@@ -3,7 +3,7 @@ I'm Shaon Talukdar (he/him) and I'm a Sophmore at the University of British Colu
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stalukdar7&count_private=true&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stalukdar7&layout=compact)](https://github.com/stalukdar7/github-readme-stats)
+<--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stalukdar7&layout=compact)](https://github.com/stalukdar7/github-readme-stats)-->
 <!--
 **stalukdar7/stalukdar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
