@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Shaon Talukdar (he/him) and I'm a Sophmore at the University of British Columbia doing a Combined Major in Business and Computer Science
+I'm Shaon Talukdar (he/him) and I'm a junior at the University of British Columbia doing a Combined Major in Business and Computer Science
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stalukdar7&count_private=true&show_icons=true&theme=graywhite)
 
