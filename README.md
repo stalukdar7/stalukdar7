@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Shaon Talukdar (he/him) and I'm a currently a student at the University of British Columbia!
+I'm Shaon Talukdar (he/him) and I'm a Software Engineer at Asana!
 
 <!--
 **stalukdar7/stalukdar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
